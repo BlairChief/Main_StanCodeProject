@@ -54,7 +54,7 @@ average, highest, lowest, and cold days among the inputs.
 - 🔠 Anagrams Searching System
     - Overview: This program finds all the anagram(s) for the word input by users.
     - Skills Practice: recursive functions 
-    - <img src="Main_stanCodeProject/SC101/A5_anagrams/demo_anagrams.png" alt="示例圖片" width="400" height="250">
+    - <img src="Main_stanCodeProject/SC101/A5_anagrams/demo_anagrams.png" alt="示例圖片" width="400*1.5" height="250*1.5">
 
 
 ### SC201
