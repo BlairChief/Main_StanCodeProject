@@ -62,7 +62,7 @@ average, highest, lowest, and cold days among the inputs.
     - Overview: This program predicts the reviews input by 
 users on Console.
     - Skills Practice: machine learning 
-    - <img src="Main_stanCodeProject/SC201/A2_RottenTomato/demo_RottenTomato.png" alt="示例圖片" width="480*1.5" height="300*1.5">
+    - <img src="Main_stanCodeProject/SC201/A2_RottenTomato/demo_RottenTomato.png" alt="示例圖片" width="480*1.55" height="300*1.55">
 
 
 - 🛳︎ Titanic Prediction_Machine Learning Version
