@@ -23,7 +23,7 @@ average, highest, lowest, and cold days among the inputs.
 - 💀 Hangman Game
     - Overview: This program plays hangman game.
     - Skills Practice: python semantics & syntax
-    - <img src="Main_stanCodeProject/SC001/A3_HangMan/demo_hangman.png" alt="示例圖片" width="500" height="350">
+    - <img src="Main_stanCodeProject/SC001/A3_HangMan/demo_hangman.png" alt="示例圖片" width="400*1.3" height="250*1.3">
 
 
 - 📷︎ MyPhotoshop 
