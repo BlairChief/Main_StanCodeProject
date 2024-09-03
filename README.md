@@ -8,7 +8,9 @@ This repository holds my main programming projects done during the period of sta
     - Overview: This program asks our user for input and checks if the input is a
 prime number or not.
     - Skills Practice: python semantics & syntax
-<img src="Main_stanCodeProject/SC001/A2_WeatherMaster&PrimeChecker/demo_prime_checker.png" alt="示例圖片" width="400" height="250" style="display: block; margin-left: 50%;" />
+<div style="text-align: center;">
+    <img src="Main_stanCodeProject/SC001/A2_WeatherMaster&PrimeChecker/demo_prime_checker.png" alt="示例圖片" width="400" height="250">
+</div>
 
 
 - ☀️ Weather Master
