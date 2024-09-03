@@ -17,13 +17,13 @@ prime number or not.
 that asks weather data from users to compute the
 average, highest, lowest, and cold days among the inputs.
     - Skills Practice: python semantics & syntax
-    - <img src="Main_stanCodeProject/SC001/A2_WeatherMaster&PrimeChecker/demo_weather_master.png" alt="示例圖片" width="500" height="350">
+    - <img src="Main_stanCodeProject/SC001/A2_WeatherMaster&PrimeChecker/demo_weather_master.png" alt="示例圖片" width="400" height="250">
 
 
 - 💀 Hangman Game
     - Overview: This program plays hangman game.
     - Skills Practice: python semantics & syntax
-    - <img src="Main_stanCodeProject/SC001/A3_HangMan/demo_hangman.png" alt="示例圖片" width="450" height="300">
+    - <img src="Main_stanCodeProject/SC001/A3_HangMan/demo_hangman.png" alt="示例圖片" width="500" height="350">
 
 
 - 📷︎ MyPhotoshop 
