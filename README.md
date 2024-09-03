@@ -9,7 +9,7 @@ This repository holds my main programming projects done during the period of sta
 prime number or not.
     - Skills Practice: python semantics & syntax
 <div style="text-align: center;">
-    <img src="Main_stanCodeProject/SC001/A2_WeatherMaster&PrimeChecker/demo_prime_checker.png" alt="示例圖片" width="400" height="250">
+    <img src="Main_stanCodeProject/SC001/A2_WeatherMaster&PrimeChecker/demo_prime_checker.png" alt="示例圖片" width="400" height="250" />
 </div>
 
 
