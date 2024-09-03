@@ -23,7 +23,7 @@ average, highest, lowest, and cold days among the inputs.
 - 💀 Hangman Game
     - Overview: This program plays hangman game.
     - Skills Practice: python semantics & syntax
-    - <img src="Main_stanCodeProject/SC001/A3_HangMan/demo_hangman.png" alt="示例圖片" width="400*1.5" height="250*1.5">
+    - <img src="Main_stanCodeProject/SC001/A3_HangMan/demo_hangman.png" alt="示例圖片" width="400*1.2" height="250*1.2">
 
 
 - 📷︎ MyPhotoshop 
@@ -36,7 +36,7 @@ average, highest, lowest, and cold days among the inputs.
 - 🧱 Breakout Game 
     - Overview: This program executes breakout game.
     - Skills Practice: animation & game designing
-    - <img src="Main_stanCodeProject/SC101/A2_BreakOutGame/demo_breakout.png" alt="示例圖片" width="400" height="250">
+    - <img src="Main_stanCodeProject/SC101/A2_BreakOutGame/demo_breakout.png" alt="示例圖片" width="400*1.5" height="250*1.5">
 
 
 - 📈 Name Popularity Searching System 
